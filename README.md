@@ -233,7 +233,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Sam Poate - [@sampoate_dev](https://twitter.com/sampoate_dev)
+Sam Poate - [@sampoatedev](https://twitter.com/sampoatedev)
 
 Project Link: [https://github.com/sampoate/expo-react-native-template](https://github.com/sampoate/expo-react-native-template)
 
