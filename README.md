@@ -94,7 +94,6 @@ Before you begin, ensure you have the following installed:
 - Node.js (LTS version)
 - npm (comes with Node.js) or Yarn
 - Git (optional, for cloning the repository)
-- Expo CLI
 
 ## Installation
 
